@@ -1,0 +1,2 @@
+# DDS
+FPGA Cyclone II EP2C5T144C8 与 MSP430f6638实现DDS(信号发生器)
