@@ -1,3 +1,0 @@
-Warning (10268): Verilog HDL information at ASK.v(15): always construct contains both blocking and non-blocking assignments
-Warning (10268): Verilog HDL information at PSK.v(20): always construct contains both blocking and non-blocking assignments
-Warning (10268): Verilog HDL information at FSK.v(17): always construct contains both blocking and non-blocking assignments
