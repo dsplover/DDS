@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Users\Fu Yuhao\Desktop\Quartus\DDS\simulation\modelsim
+vBUS
+!i10b 1
+!s100 C4V5h;_KO5=`6@9[dhYA00
+I5kD4jOKW1aG0B?`^87ZDH1
+VM:R4UzX^jaVGa2GPRBIKf3
+Z1 dF:\Users\Fu Yuhao\Desktop\Quartus\DDS\simulation\modelsim
+w1650183660
+8F:/Users/Fu Yuhao/Desktop/Quartus/DDS/BUS.v
+FF:/Users/Fu Yuhao/Desktop/Quartus/DDS/BUS.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1650593668.548000
+!s107 F:/Users/Fu Yuhao/Desktop/Quartus/DDS/BUS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/DDS|F:/Users/Fu Yuhao/Desktop/Quartus/DDS/BUS.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/DDS} -O0
+n@b@u@s
+vKEY
+IfM_Lk8MhMVbTX:61MK>^S0
+V5=F_30_[HzM6L3f]5OgjT0
+R1
+w1650451436
+8F:/Users/Fu Yuhao/Desktop/Quartus/DDS/KEY.v
+FF:/Users/Fu Yuhao/Desktop/Quartus/DDS/KEY.v
+L0 1
+R2
+r1
+31
+R3
+n@k@e@y
+!i10b 1
+!s100 Dkd9`@COU0_Fd]WMOMTSD2
+!s85 0
+!s108 1650593668.425000
+!s107 F:/Users/Fu Yuhao/Desktop/Quartus/DDS/KEY.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/DDS|F:/Users/Fu Yuhao/Desktop/Quartus/DDS/KEY.v|
+!s101 -O0
+R4
